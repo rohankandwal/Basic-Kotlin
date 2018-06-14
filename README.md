@@ -1,0 +1,1 @@
+No design patterns have been added here, created just for understanding how Kotlin works.
