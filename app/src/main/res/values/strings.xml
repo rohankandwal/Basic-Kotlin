@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin Weather app</string>
+    <string name="enter_zip_code">Enter zip code</string>
+    <string name="current_temp">Current Temp</string>
+</resources>
